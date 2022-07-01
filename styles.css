@@ -1,0 +1,43 @@
+body {
+    font-family: 'Georgia', sans-serif;
+    font-size: 120%;
+
+    background-color: LightGreen;
+}
+
+#paper {
+    width: 900px;
+
+    margin: auto;
+    padding: 20px 20px 20px 40px;
+
+    background-color: #eee;
+
+    box-shadow: 1px 3px 5px 6px #636262;
+}
+
+#name {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.info_text {
+    margin: 10px;
+
+    line-height: 1.4;
+}
+
+.thesis {
+    width: 70%;
+    margin: 5px 30px 30px 30px;
+}
+
+#author_picture {
+    margin: 30px;
+    vertical-align: top;
+    float: right;
+}
+
+a, a:visited, a:hover, a:active {
+    color: blue;
+}
