@@ -8,7 +8,7 @@ body {
 #paper {
     width: 900px;
 
-    margin: auto;
+    margin: 30px auto 30px;
     padding: 30px 30px 30px 60px;
 
     background-color: #eee;
